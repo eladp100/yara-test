@@ -1,6 +1,6 @@
 rule test {
 		strings:
-		          $str1=".txttest
+		          $str1=".txt"
 		condition:
 			  $str1
 }
